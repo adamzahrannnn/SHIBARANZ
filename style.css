@@ -1,0 +1,75 @@
+.header {
+    height: 70px;
+    background-color: rgb(255, 208, 0);
+    border-bottom: 1px solid;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-align: center;
+    line-height: 1px;
+    
+}
+.header h3{
+    font-family: Lobster;
+    text-align: center;
+    padding-top: 5px;
+}
+.header p{
+    font-family: poppins;
+}
+
+
+.isi{
+    height: 600px;
+}
+.isi img{
+    float: right;
+    height: 500px;
+    margin-top: -4cm;
+}
+
+.bungkusan1{
+    margin-left: 2cm;
+    margin-top: 4cm;
+}
+
+.dc {
+    font-weight: bold;
+    padding: 6px;
+    background-color: darkorange;
+    width: 6.7cm;
+    border-radius: 30px;
+    color: white;
+    margin-left: 2px;
+}
+
+.aktivitas{
+    background-color: rgb(68, 62, 62);
+}
+.aktivitas h3{
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.btn btn-primary{
+    margin-left: 20cm !important;
+}
+
+.motivasi {
+    background-color: white;
+}
+.motivasi h3 {
+    color: black;
+}
+
+.bungkusanft    {
+    text-align: center;
+    font-style: normal !important;
+    padding-bottom: 1cm;
+}
+
+.motivasi{
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20210408/pngtree-white-abstract-vector-web-background-design-image_597636.jpg);
+    width: 100%;
+    position: relative;
+}
