@@ -6,6 +6,7 @@
     border-bottom-right-radius: 20px;
     text-align: center;
     line-height: 1px;
+    position: static;
     
 }
 .header h3{
@@ -44,6 +45,7 @@
 
 .aktivitas{
     background-color: rgb(68, 62, 62);
+    align-content: center;
 }
 .aktivitas h3{
     color: white;
@@ -62,10 +64,12 @@
     color: black;
 }
 
-.bungkusanft    {
+.bungkusanft   {
     text-align: center;
     font-style: normal !important;
     padding-bottom: 1cm;
+    background-color: rgb(0, 0, 0);
+    color: white;
 }
 
 .motivasi{
@@ -89,5 +93,11 @@
 
  .row {
     margin-left: 25px !important;
+ }
+}
+
+@media screen and (max-width: 800px) {
+    .card {
+        width: 13rem !important;
  }
 }
