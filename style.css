@@ -73,3 +73,21 @@
     width: 100%;
     position: relative;
 }
+
+@media screen and (max-width: 550px) {
+ .isi img {
+    height: 350px;
+    margin-right: 20px;
+ }
+.bungkusan1 {
+    margin-left: 20px;
+
+ }
+ .isi {
+    height: 400px;
+ }
+
+ .row {
+    margin-left: 25px !important;
+ }
+}
